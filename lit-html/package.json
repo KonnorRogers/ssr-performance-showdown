@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "npm run start",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@lit-labs/ssr": "^3.2.2",
+    "fastify": "^4.28.1",
+    "lit": "^3.2.0"
+  }
+}
